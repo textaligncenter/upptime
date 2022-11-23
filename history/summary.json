@@ -4,18 +4,19 @@
     "url": "https://relay.kwp-online.de/managementweb",
     "icon": "https://icons.duckduckgo.com/ip3/relay.kwp-online.de.ico",
     "slug": "relay",
-    "status": "up",
-    "uptime": "99.85%",
+    "status": "down",
+    "uptime": "99.86%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.85%",
-    "uptimeYear": "99.85%",
+    "uptimeMonth": "99.86%",
+    "uptimeYear": "99.86%",
     "time": 730,
     "timeDay": 857,
     "timeWeek": 731,
     "timeMonth": 730,
     "timeYear": 730,
     "dailyMinutesDown": {
+      "2022-11-23": 0,
       "2022-11-14": 18
     }
   }
