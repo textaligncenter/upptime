@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/relay.kwp-online.de.ico",
     "slug": "relay",
     "status": "up",
-    "uptime": "99.89%",
+    "uptime": "99.90%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.89%",
-    "uptimeYear": "99.89%",
-    "time": 733,
-    "timeDay": 1056,
+    "uptimeMonth": "99.90%",
+    "uptimeYear": "99.90%",
+    "time": 725,
+    "timeDay": 612,
     "timeWeek": 733,
-    "timeMonth": 733,
-    "timeYear": 733,
+    "timeMonth": 725,
+    "timeYear": 725,
     "dailyMinutesDown": {
       "2022-11-14": 18
     }
